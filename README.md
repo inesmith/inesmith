@@ -1,4 +1,4 @@
-![Header Image](your-header-image-url)
+![Header Image](_ (14).jpeg)
 
 # Hi, I'm Iné Smith  
 
