@@ -26,11 +26,15 @@ I am an Interactive Development & UX Design student at Open Window with a passio
 ## 📂 Portfolio Project Repositories  
 Here are my main DV300 project repositories:
 
-### **1. Exhibito – Art Exhibition Ticketing Website**  
-[🔗 View Repository]([link-to-your-repo](https://github.com/WolfOWI/exhibito.git))  
+### **1. Coriander Backend – HR Platform **  
+[🔗 View Repository]([link-to-your-repo]((https://github.com/WolfOWI/coriander-backend.git)))  
 A ticketing platform for art exhibitions using MERN stack.
 
-### **2. PetPulse – Pet Activity & Health Tracker**  
+### **2. Coriander Frontend – HR Platform **  
+[🔗 View Repository]([link-to-your-repo](https://github.com/WolfOWI/coriander.git))  
+A ticketing platform for art exhibitions using MERN stack.
+
+### **3. PetPulse – Pet Activity & Health Tracker**  
 [🔗 View Repository]([link-to-your-repo](https://github.com/inesmith/PetPulse.git))  
 Tracks pet health and rewards activity using sensors.
 
