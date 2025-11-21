@@ -27,19 +27,19 @@ I am an Interactive Development & UX Design student at Open Window with a passio
 Here are my main DV300 project repositories:
 
 ### **1. Coriander Backend – HR Platform **  
-[🔗 View Repository]([link-to-your-repo]((https://github.com/WolfOWI/coriander-backend.git)))  
+[🔗 View Repository](https://github.com/WolfOWI/coriander-backend.git)
 A ticketing platform for art exhibitions using MERN stack.
 
 ### **2. Coriander Frontend – HR Platform **  
-[🔗 View Repository]([link-to-your-repo](https://github.com/WolfOWI/coriander.git))  
+[🔗 View Repository](https://github.com/WolfOWI/coriander.git)  
 A ticketing platform for art exhibitions using MERN stack.
 
 ### **3. PetPulse – Pet Activity & Health Tracker**  
-[🔗 View Repository]([link-to-your-repo](https://github.com/inesmith/PetPulse.git))  
+[🔗 View Repository](https://github.com/inesmith/PetPulse.git)  
 Tracks pet health and rewards activity using sensors.
 
 ### **3. Curza – AI-Powered Learning App**  
-[🔗 View Repository]([link-to-your-repo](https://github.com/inesmith/CURZA.git))  
+[🔗 View Repository](https://github.com/inesmith/CURZA.git)  
 A learning platform that generates math tests using OpenAI.
 
 ---
