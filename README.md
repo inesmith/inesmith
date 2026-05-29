@@ -37,7 +37,7 @@ My interests include:
 Here are my PP410 Creative Practice project repositories:
 
 ### **1. Cape Origins - Theme 1 **  
-[🔗 View Repository](https://github.com/inesmith/cape-origins)
+[🔗 View Repository](https://github.com/inesmith/buily-for-the-cape.git)
 Interactive educational mobile application exploring Cape Dutch architecture through reconstruction gameplay and environmental learning.
 
 Tech: React Native, Expo, TypeScript
