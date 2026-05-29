@@ -2,7 +2,17 @@
 # Hi, I'm Iné Smith  
 
 ## About Me
-I am an Interactive Development & UX Design student at Open Window with a passion for building user-focused digital products. I enjoy working on full-stack projects, UI/UX design, mobile apps, and real-world tech solutions.
+I'm a Postgraduate Diploma student at Open Window Institute with a passion for creating meaningful digital experiences through software development, mobile applications, and user-centred design.
+
+My interests include:
+
+- Mobile App Development
+- Full-Stack Web Development
+- User Experience (UX) Design
+- Interaction Design
+- Human-Centred Technology
+- Educational Technology
+- Heritage & Cultural Technology Solutions
 
 ---
 
@@ -23,7 +33,18 @@ I am an Interactive Development & UX Design student at Open Window with a passio
 
 ---
 
-## 📂 Portfolio Project Repositories  
+## 📂 Portfolio Project Repositories 
+Here are my PP410 Creative Practice project repositories:
+
+### **1. Cape Origins - Theme 1 **  
+[🔗 View Repository](https://github.com/inesmith/cape-origins)
+Interactive educational mobile application exploring Cape Dutch architecture through reconstruction gameplay and environmental learning.
+
+Tech: React Native, Expo, TypeScript
+
+---
+
+## 📂 Portfolio Project Repositories (2025)
 Here are my main DV300 project repositories:
 
 ### **1. Coriander Backend – HR Platform **  
