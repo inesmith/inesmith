@@ -2,6 +2,8 @@
 # Hi, I'm Iné Smith  
 
 ## About Me
+Interactive Developer & UX Designer
+
 I'm a Postgraduate Diploma student at Open Window Institute with a passion for creating meaningful digital experiences through software development, mobile applications, and user-centred design.
 
 My interests include:
