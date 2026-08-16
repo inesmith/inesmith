@@ -55,8 +55,8 @@ Tech: React Native, Expo, TypeScript
 ---
 
 ### **3. PERi-PHRASE - Theme 3 **  
-[🔗 View Repository](https://github.com/inesmith/IMPI-CHATBOT.git)
-IMPI is an AI-powered conservation education platform designed to bridge the gap between the public and the realities of ranger work.
+[🔗 View Repository](https://github.com/inesmith/PERi-PHRASE.git)
+PERi-PHRASE 🌶️ — An interactive two-player South African language game created for the iPendoring Awards, inspired by Nando’s and built around local phrases, pronunciation, illustrations, and teamwork.
 
 Tech: React Native, Expo, TypeScript
 
