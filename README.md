@@ -54,6 +54,14 @@ Tech: React Native, Expo, TypeScript
 
 ---
 
+### **3. PERi-PHRASE - Theme 3 **  
+[🔗 View Repository](https://github.com/inesmith/IMPI-CHATBOT.git)
+IMPI is an AI-powered conservation education platform designed to bridge the gap between the public and the realities of ranger work.
+
+Tech: React Native, Expo, TypeScript
+
+---
+
 ## 📂 Portfolio Project Repositories (2025)
 Here are my main DV300 project repositories:
 
