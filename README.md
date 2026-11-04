@@ -62,6 +62,20 @@ Tech: React Native, Expo, TypeScript
 
 ---
 
+### **4. Jimny Side Quests – Theme 4**
+
+[🔗 View Repository](https://github.com/inesmith/jimny-sidequests)
+
+**Jimny Side Quests** 🚙🏕️ — A community-driven mobile application designed to keep South African Suzuki Jimny owners connected beyond the annual Jimny Gathering.
+
+Through year-round Side Quests, local experiences, an interactive Adventure Passport, collectible digital stamps, and community meetups, the app encourages Jimny owners to explore new places, create memories, and connect with fellow adventurers.
+
+Developed in collaboration with **Jimny Gathering** as part of my final PGDip Interactive Development project at Open Window.
+
+**Tech:** React Native, Expo, TypeScript, Firebase
+
+---
+
 ## 📂 Portfolio Project Repositories (2025)
 Here are my main DV300 project repositories:
 
