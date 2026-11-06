@@ -105,6 +105,7 @@ A learning platform that generates math tests using OpenAI.
 ---
 
 ## Contact Information  
-- **Email:** ine.smith2003@gmail.com
+- **Email:** ine.smith@outlook.com
+- **Phone:** 079 727 2830
 - **LinkedIn:** [https://www.linkedin.com/in/your-link ](https://www.linkedin.com/in/in%C3%A9-smith-502a8a271/)
 - **Bēhance:** [[https://www.linkedin.com/in/your-link](https://www.behance.net/insmith)
